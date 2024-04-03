@@ -1,0 +1,53 @@
+[
+  {
+    "FechaIni": "2023-11-11T09:02:43.554Z",
+    "FechaFin": "2023-11-11T09:02:43.554Z",
+    "Lugar": "SD",
+    "Coordenadas": {
+      "Latitud": 0.0,
+      "Longitud": 0.0
+    },
+    "Participantes": [
+      {
+        "Cedula": "5984739",
+        "Nombre": "lolo",
+        "Rol": "pl",
+        "Estado": "Herido"
+      }
+    ]
+  },
+  {
+    "FechaIni": "2023-11-11T21:24:02.422Z",
+    "FechaFin": "2023-11-11T21:24:02.422Z",
+    "Lugar": "SD",
+    "Coordenadas": {
+      "Latitud": 0.2,
+      "Longitud": 0.7
+    },
+    "Participantes": [
+      {
+        "Cedula": "2414214",
+        "Nombre": "Alex",
+        "Rol": "Police",
+        "Estado": "Ileso"
+      }
+    ]
+  },
+  {
+    "FechaIni": "2023-11-09T00:00:00",
+    "FechaFin": "2023-11-11T00:00:00",
+    "Lugar": "SD",
+    "Coordenadas": {
+      "Latitud": 0.5,
+      "Longitud": 0.9
+    },
+    "Participantes": [
+      {
+        "Cedula": "124214",
+        "Nombre": "lala",
+        "Rol": "Policia",
+        "Estado": "Ileso"
+      }
+    ]
+  }
+]
